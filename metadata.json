@@ -1,0 +1,8 @@
+{
+  "name": "LIMITLESS APPARELL CO",
+  "description": "Contemporary clothing and footwear storefront with real-time multi-variant inventory tracking, reservation holds, and secure multi-method payment checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
